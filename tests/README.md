@@ -1,3 +1,3 @@
-# tests README.md
+# tests
 README file for tests directory
 

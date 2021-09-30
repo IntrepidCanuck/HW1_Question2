@@ -1,2 +1,2 @@
-# examples README.md
+# examples
 README file for examples directory
